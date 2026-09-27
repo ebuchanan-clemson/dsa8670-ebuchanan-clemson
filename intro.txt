@@ -2,6 +2,8 @@ DSA 8670 — Introduction
 
 Name: Emily Buchanan
 
+Date: 9/27/2026
+
 Major / program: Masters of Science in Data Science and Analytics (DSA) Program
 
 Favorite dataset or industry interest: My industry interests include finance and healthcare.
