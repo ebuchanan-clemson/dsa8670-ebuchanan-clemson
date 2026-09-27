@@ -6,4 +6,4 @@ Major / program: Masters of Science in Data Science and Analytics (DSA) Program
 
 Favorite dataset or industry interest: My industry interests include finance and healthcare.
 
-One reason I am studying analytics: One reason that I am studying analytics is to build my data analytics skills. 
+One reason I am studying analytics: One reason that I am studying analytics is to build my data analytics skills.
